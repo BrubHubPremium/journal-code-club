@@ -5,7 +5,7 @@ Journal club and code review calendar. Add yourself for either a code review or 
 |         | Club Type | Presenter | Notes/Links        |Room   |Time   |
 |---------|-----------|-----------|--------------------|-------|-------|
 | Sept 13 | Journal   | Anish     | Paper in calendar invite/slack |    ThinkTank   |    4PM-5PM   |
-| Sept 20 |           |     Server Clean Up      |                    |       |       |
+| Sept 20 |    Rager       |     Server Clean Up      |          Get ready to rm *          |    L/R Brains   |   4-6PM    |
 | Sept 27 |           |     Yu      |                    |       |       |
 | Oct 4   |           |     Anthony      |                    |       |       |
 | Oct 11  | Journal   |    Mike     |       |       |       |
