@@ -8,5 +8,5 @@ Journal club and code review calendar. Add yourself for either a code review or 
 | Sept 20 |           |     Server Clean Up      |                    |       |       |
 | Sept 27 |           |     Yu      |                    |       |       |
 | Oct 4   |           |     Anthony      |                    |       |       |
-
+| Oct 11  | Journal   |    Mike     |       |       |       |
 
